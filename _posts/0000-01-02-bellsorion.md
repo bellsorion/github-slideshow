@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The only thing I can turn on is my laptop
 Use the left arrow to go back!
